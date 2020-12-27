@@ -12,6 +12,7 @@ export default class HTML extends React.Component {
             name="viewport"
             content="width=device-width, initial-scale=1, shrink-to-fit=no, minimum-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover"
           />
+          <script data-ad-client="ca-pub-4585566273608855" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
           {this.props.headComponents}
         </head>
         <body {...this.props.bodyAttributes}>

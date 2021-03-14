@@ -1,8 +1,8 @@
 module.exports = {
-  title: `Bee starter`,
-  description: `Blog posted about ...`,
+  title: `DevSooNote`,
+  description: `주니어 개발자가 회사에서 살아남는 일지`,
   author: `devsoonote`,
-  introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
+  introduction: `안녕하세요. 주니어 프론트엔드 개발자 안수경입니다. 이 블로그는 주니어 개발자가 회사에서 살아남는 방법을 작성합니다. :-)`,
   siteUrl: `https://devsoonote.github.io`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
@@ -21,7 +21,7 @@ module.exports = {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: 'jbee',
+    buyMeACoffeeId: 'soo',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
